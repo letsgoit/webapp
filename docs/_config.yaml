@@ -1,0 +1,8 @@
+theme: jekyll-theme-cayman
+title: "LetsGoIt"
+description: "Have fun with go"
+github:
+  repository_url: https://github.com/letsgoit/webapp
+  is_project_page: true
+  owner_url: "https://example.com"
+  owner_name: "Letsgoit Team (letsgoit@googlegroups.com)"
